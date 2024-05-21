@@ -20,6 +20,11 @@ git clone https://github.com/srmandli95/flask-docker-starter.git
 cd flask-docker-starter
 ```
 
+## Prerequisites
+
+- Docker installed on your machine
+- Docker Compose installed on your machine
+
 ### Build and Run the Application:
 
 ```sh

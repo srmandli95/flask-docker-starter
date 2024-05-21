@@ -10,8 +10,6 @@ COPY . .
 # Install the required packages
 RUN pip install -r requirements.txt
 
-# Copy the rest of the application code to the working directory
-COPY . .
 
 # Expose the port the app runs on
 EXPOSE 5000
