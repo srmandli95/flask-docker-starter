@@ -3,7 +3,7 @@
 Flask Docker Starter is a template project for quickly setting up a Dockerized Flask application with PostgreSQL as the database. This starter kit simplifies the process of containerizing your Flask application, enabling easy deployment and scalability. The project includes essential configurations and instructions for getting started with Docker and Docker Compose, making it an ideal starting point for developing Flask applications with a robust database backend.
 
 
-Features:
+<h4> Features: </h4>
 
   Flask Framework: A lightweight WSGI web application framework in Python.
   PostgreSQL Database: A powerful, open-source object-relational database system.
